@@ -1,3 +1,5 @@
+package NewYearChaos;
+
 public class NewYearChaos {
     void getMinimumBribes(int[] lineArray) {
         if (lineArray.length <= 1) {

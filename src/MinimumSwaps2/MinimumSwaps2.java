@@ -1,4 +1,4 @@
-package minimumSwaps2;
+package MinimumSwaps2;
 
 import java.util.HashMap;
 import java.util.Map;
